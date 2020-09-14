@@ -1,0 +1,4 @@
+selenium==3.11.0
+py==1.5.2
+pytest==3.2.2
+pytest-cov==2.5.1
